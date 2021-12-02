@@ -1,6 +1,6 @@
 # Helooo :)
 
-I'm Luke, a computer science student in A-Levels. Also doing physics. Wanna mix them together at some point.
+codeing
 
 They/Them <3
 
