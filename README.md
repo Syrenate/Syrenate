@@ -1,8 +1,6 @@
-# Helooo :)
+# Hi!
 
-codeing
-
-they them
+Featuring some projects I was happy with
 
 <!--
 **Syrenate/Syrenate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
