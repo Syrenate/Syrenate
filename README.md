@@ -1,6 +1,8 @@
-# Lyric Jennings
+# Hiya, I'm Lyric
 
-Featuring some projects I was happy with. My attention focus mainly on applicable mathematics, back-end software development and coding challenges (like Advent of Code).
+Mathematics student at University of Edinburgh. Programming is more of a hobby, but I'm looking to make it more than that.
+
+Featuring some projects I was happy with here. My attention focus mainly on applicable mathematics, back-end software development and coding challenges (like Advent of Code).
 
 <!--
 **Syrenate/Syrenate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
