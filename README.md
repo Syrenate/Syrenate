@@ -1,6 +1,6 @@
-# Hi!
+# Lyric Jennings
 
-Featuring some projects I was happy with
+Featuring some projects I was happy with. My attention focus mainly on applicable mathematics, back-end software development and coding challenges (like Advent of Code).
 
 <!--
 **Syrenate/Syrenate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
