@@ -1,4 +1,4 @@
-# Hiya, I'm Lyric
+# :blue_heart: Hiya, I'm Lyric
 
 Mathematics student at University of Edinburgh. Programming is more of a hobby, but I'm looking to make it more than that.
 
